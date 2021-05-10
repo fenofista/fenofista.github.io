@@ -16,16 +16,13 @@ p{
 .type{
     font-size:2rem;
     margin-left: 5rem;
-    
 }
 .use, .name{
     margin-left: 2rem;
     font-size:2rem;
+    margin-top: 5rem;
 }
-.ex{
-    display: inline-block;
-    
-}
+
 .in{
     display: inline-block;
 }
@@ -34,4 +31,7 @@ table{
 }
 .content{
     margin-left: 5rem;
+}
+#flow_chart{
+    margin-left: 30rem;
 }
