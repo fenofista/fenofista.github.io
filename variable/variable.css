@@ -26,10 +26,11 @@ p{
 .in{
     display: inline-block;
 }
-table{
+.ex{
     margin-top: 2rem;
 }
 .content{
+
     margin-left: 5rem;
 }
 #flow_chart{
