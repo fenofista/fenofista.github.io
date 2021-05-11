@@ -1,8 +1,8 @@
 body{
-    background-color: gray;
+    background-color: lightgray;
 }
 h1{
-    color:lightblue;
+    color:chocolate;
     margin-left:40rem;
     font-size:3rem;
 }
@@ -17,22 +17,45 @@ p{
     font-size:2rem;
     margin-left: 5rem;
 }
-.use, .name{
+.title{
+    
     margin-left: 2rem;
     font-size:2rem;
     margin-top: 5rem;
-}
-
-.in{
-    display: inline-block;
 }
 .ex{
     margin-top: 2rem;
 }
 .content{
-
+    font-size:2rem;
+    margin-right: 5rem;
     margin-left: 5rem;
 }
 #flow_chart{
     margin-left: 30rem;
+}
+.rule{
+    margin-left: 5rem;
+    font-size: 2rem;
+}
+.intro{
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+.example{
+    display: inline-block;
+    margin-left: 10rem
+/*    padding-left:40rem;*/
+}
+.grammer{
+    display: inline;
+    
+    width: 20rem;
+}
+td{
+    padding-right:2rem;
+}
+.assign{
+    font-size: 2rem;
+    margin-left: 5rem;
 }
